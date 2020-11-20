@@ -1,4 +1,4 @@
-[**Employee Summary**](https://github.com/ryanbrowne360/PWA-Online-Offline-Budget-Trackers.git)
+[**Employee Summary**](https://github.com/ryanbrowne360/EmployeeSummary.git)
 
 Description:
 
@@ -6,13 +6,13 @@ This application is designed so that the user can run through a prompt in their 
 
 Installation:
 
-The files in the repository contain all the dependencies, api calls, and js functionality. The user must have Node.js installed. From there, go to the local directory that contains all the files for this application in your terminal. Then type node server.js, and the application should be live on http://localhost:3000 in your browser.
+The files in the repository contain all the applications functionality. The user must have Node.js installed. From there, go to the local directory that contains all the files for this application in your terminal. Then type node server.js, and the application should be live on http://localhost:3000 in your browser.
 
-[Link to Application](https://github.com/ryanbrowne360/PWA-Online-Offline-Budget-Trackers.git)
+[Link to Application](https://github.com/ryanbrowne360/EmployeeSummary.git)
 
 Usage:
 
-When the user opens the application page, they are presented with a simple user interface. From here they are able to type the name of their transaction, the amount, and whether it is an addition or subtraction. Their history is displayed on a table, and total over time graph is also visible.
+When the user opens the application page, they are presented with a simple user interface. From here they are able to select whatever they choose, such as departments, employees, etc. They can add, change, and delete information that is connected to an sql database. 
 
 - *Google Chrome*
 - *JavaScript*
@@ -28,10 +28,8 @@ References:
 - [npm compression](https://www.npmjs.com/package/compression)
 - [npm dotenv](https://www.npmjs.com/package/dotenv)
 - [npm express](https://www.npmjs.com/package/express)
-- [npm morgan](https://www.npmjs.com/package/morgan)
-- [npm logger](https://www.npmjs.com/package/logger)
-- [npm mongoose](https://www.npmjs.com/package/mongoose)
-
+- [npm inquirer](https://www.npmjs.com/package/inquirer)
+- [npm mysql](https://www.npmjs.com/package/mysql)
 
 License:
 

@@ -35,7 +35,7 @@ const db = new Database({
     host: "localhost",
     port: 3306,
     user: "root",
-    password: "",
+    password: "1234",
     database: "dbEmployees"
 });
 
@@ -74,11 +74,11 @@ async function main() {
         promptAnswers = await inquirer.prompt([
             {
                 name: 'role',
-                message: 'What is the name of the role?'
+                message: 'What is the name of the role.'
             },
             {
                 name: 'salary',
-                message: 'Please provide a starting salary?'
+                message: 'Please provide a starting salary.'
             },
             {
                 name: 'department',
