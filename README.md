@@ -12,7 +12,7 @@ The files in the repository contain all the applications functionality. The user
 
 Usage:
 
-When the user opens the application page, they are presented with a simple user interface. From here they are able to select whatever they choose, such as departments, employees, etc. They can add, change, and delete information that is connected to an sql database. A schema is provided.
+When the user opens the application page, they are presented with a simple command line user interface. From here they are able to select whatever they choose, such as departments, employees, etc. They can add, change, and delete information that is connected to an sql database. A schema is provided.
 
 - *Google Chrome*
 - *JavaScript*
