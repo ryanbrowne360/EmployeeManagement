@@ -1,4 +1,4 @@
-[**Employee Summary**](https://github.com/ryanbrowne360/EmployeeSummary.git)
+[**Employee Management**](https://github.com/ryanbrowne360/EmployeeManagement.git)
 
 Description:
 
@@ -8,7 +8,7 @@ Installation:
 
 The files in the repository contain all the applications functionality. The user must have Node.js installed. From there, go to the local directory that contains all the files for this application in your terminal. Then type node server.js, and the application should be live on http://localhost:3000 in your browser.
 
-[Link to Application](https://github.com/ryanbrowne360/EmployeeSummary.git)
+[Link to Application](https://github.com/ryanbrowne360/EmployeeManagement.git)
 
 Usage:
 
